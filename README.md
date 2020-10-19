@@ -1,4 +1,4 @@
-## Work/Project Experience [PDF](./포트폴리오.pdf)
+## Work/Project Experience [PDF](포트폴리오.pdf)
 
 ## [1.	카카오 아레나 Music Playlist Continuation](https://github.com/dhsong95/Hunchbrown-Melon-Playlist-Continuation) (2020.06-2020.07)
 #추천시스템 #공모전 #팀프로젝트
