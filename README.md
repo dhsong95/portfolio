@@ -44,7 +44,7 @@ Python, Github, Tensorflow 2.0(Keras Style)
 개인 프로젝트로 진행하였습니다. 
 
 ### 성과
-분석한 내용을 [개인 블로그](https://dhsong10.tistory.com/)에 업로드하여 공유하였습니다. 8월 한달간 가장 높은 조회수의 글이 되었습니다.
+분석한 내용을 [개인 블로그](https://dhsong10.tistory.com/50)에 업로드하여 공유하였습니다. 8월 한달간 가장 높은 조회수의 글이 되었습니다.
 
 ## [4.	음악치료 연구 동향 분석](https://github.com/dhsong95/Music-Therapy-Article-NLP) (2019.12)
 #자연어처리 #토픽모델링
